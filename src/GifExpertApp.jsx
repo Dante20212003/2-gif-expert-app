@@ -21,7 +21,7 @@ const GifExpertApp = () => {
 
   return (
     <div className="container">
-      <h1>GifExpertApp</h1>
+      <h1>GifExpertApp :D</h1>
 
       <FormGif
         onAddCategory={onAddCategory}
